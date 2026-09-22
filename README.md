@@ -1,5 +1,5 @@
 # new
 this is my first git repo
 <br>
-my name is PIyush
+my name is Piyush Patil
 
